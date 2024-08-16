@@ -1,7 +1,7 @@
 ![declaritive](https://github.com/user-attachments/assets/040ef7bd-1cb5-47ca-94ce-469760ccbcf6)
 
 
-# Django Application on AWS with JenkinsJenkins Declarative CI/CD Pipeline
+# Django Application on AWS with Jenkins Declarative CI/CD Pipeline
   ## Required tools for this project are:
     - AWS EC2 instance 🖥️
     - Docker 🐳
@@ -55,4 +55,8 @@ sudo apt-get install docker-compose
 15. If it runs successfully, enter your public IP of EC2 instance in new tab followed by :8000.
 
 And as shown below you will get "final deployed app" on your screen :) 
+
+![1723109060289](https://github.com/user-attachments/assets/9260dcbb-ff6a-4570-ba8d-b889c7489149)
+
+
 
